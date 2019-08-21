@@ -3,16 +3,16 @@
 Python code to lookup mac address info
 
 
-## Setup
+### Setup
 Install python - https://www.python.org/downloads/mac-osx/
 
-Install dependency - pip install -r requirements.txt
+Install project dependency - pip install -r requirements.txt
 
-## Running the code
+### Running the code
 
 Usage: python look_up.py --macaddr 44:38:39:ff:ef:57
 
-## Help
+### Help
 
 python look_up.py --help
 
