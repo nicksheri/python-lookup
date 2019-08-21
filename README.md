@@ -14,5 +14,20 @@ Usage: python look_up.py --macaddr 44:38:39:ff:ef:57
 
 ### Help
 
-python look_up.py --help
+```python look_up.py --help```
+
+## Docker Setup
+
+### Docker Build
+
+```docker build -t <you username>/<appname>```
+
+To list images
+
+```docker images```
+
+### Run docker image
+
+```docker run -i -t <your username>/<appname>  ```
+
 
