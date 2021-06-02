@@ -84,7 +84,7 @@ toml==0.10.0
 tornado==5.1.1
 typing==3.7.4
 UNKNOWN==0.0.0
-urllib3==1.23
+urllib3==1.26.5
 vboxapi==1.0
 virtualenv==16.4.3
 virtualenv-clone==0.5.3
